@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.home,
+.services,
+.products,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.services {
+  background-image: url(../public/contentImage/services.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 80px;
+}
+
+.products {
+  background-image: url(../public/contentImage/product.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 80px;
+}
+
+.sign-up {
+  background-image: url(../public/contentImage/signup.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color:black;
+  font-size: 80px;
+}
+
+@media screen and (max-width: 900px) {
+  .services,
+.products,
+.sign-up {
+  font-size: 40px;
+
+  }
+  
+}
+
+@media screen and (max-width: 400px) {
+  .services,
+.products,
+.sign-up {
+  font-size: 30px;
+
+  }
+  
+}

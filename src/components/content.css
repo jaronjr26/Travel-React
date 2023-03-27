@@ -1,0 +1,54 @@
+video {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+.content-container{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+    justify-content: center;
+
+}
+
+.content-container > h1{
+    background: linear-gradient(to left, rgb(105, 4, 148), white, rgb(75, 6, 75) );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: white;
+    font-size: 5rem;
+    text-align: center;
+
+}
+
+.content-container > p{
+    color: white;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    letter-spacing: 0.15rem;
+    text-align: center;
+
+}
+
+.content-btns{
+    display: flex;
+    gap: 1rem;
+}
+
+
+@media screen and (max-width: 680px) {
+    .content-container > h1{
+        font-size: 3rem;
+    }
+    .content-container > p{
+        font-size: 1rem;
+    }
+}
