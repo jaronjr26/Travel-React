@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Travel-React/static/css/main.bb0b8e54.css",
-    "main.js": "/Travel-React/static/js/main.9fbf11d7.js",
+    "main.js": "/Travel-React/static/js/main.fe9f6e54.js",
     "static/media/signup.jpg": "/Travel-React/static/media/signup.0c0b909fc44c3cb5605b.jpg",
     "static/media/services.png": "/Travel-React/static/media/services.a250e120bff91badf239.png",
     "index.html": "/Travel-React/index.html",
     "main.bb0b8e54.css.map": "/Travel-React/static/css/main.bb0b8e54.css.map",
-    "main.9fbf11d7.js.map": "/Travel-React/static/js/main.9fbf11d7.js.map"
+    "main.fe9f6e54.js.map": "/Travel-React/static/js/main.fe9f6e54.js.map"
   },
   "entrypoints": [
     "static/css/main.bb0b8e54.css",
-    "static/js/main.9fbf11d7.js"
+    "static/js/main.fe9f6e54.js"
   ]
 }
