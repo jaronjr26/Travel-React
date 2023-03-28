@@ -1,15 +1,22 @@
 {
   "files": {
     "main.css": "/Travel-React/static/css/main.bb0b8e54.css",
-    "main.js": "/Travel-React/static/js/main.6e00a55d.js",
+    "main.js": "/Travel-React/static/js/main.e65d1c96.js",
+    "static/media/video-01.mp4": "/Travel-React/static/media/video-01.c5252bf38d0b31cc3019.mp4",
+    "static/media/image-05.jpg": "/Travel-React/static/media/image-05.e52f587d10e77c20d31c.jpg",
+    "static/media/image-06.jpg": "/Travel-React/static/media/image-06.b2418a6574dbd4fc523e.jpg",
+    "static/media/image-03.jpg": "/Travel-React/static/media/image-03.1896d170e70744ac1d0f.jpg",
+    "static/media/image-02.jpg": "/Travel-React/static/media/image-02.96d7321e40c008f28a40.jpg",
     "static/media/signup.jpg": "/Travel-React/static/media/signup.0c0b909fc44c3cb5605b.jpg",
+    "static/media/image-01.jpg": "/Travel-React/static/media/image-01.ebabbfe7f867b29e19fc.jpg",
+    "static/media/image-04.jpg": "/Travel-React/static/media/image-04.91b63db604527b57a8c4.jpg",
     "static/media/services.png": "/Travel-React/static/media/services.a250e120bff91badf239.png",
     "index.html": "/Travel-React/index.html",
     "main.bb0b8e54.css.map": "/Travel-React/static/css/main.bb0b8e54.css.map",
-    "main.6e00a55d.js.map": "/Travel-React/static/js/main.6e00a55d.js.map"
+    "main.e65d1c96.js.map": "/Travel-React/static/js/main.e65d1c96.js.map"
   },
   "entrypoints": [
     "static/css/main.bb0b8e54.css",
-    "static/js/main.6e00a55d.js"
+    "static/js/main.e65d1c96.js"
   ]
 }
